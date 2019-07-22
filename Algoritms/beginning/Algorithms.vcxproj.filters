@@ -36,5 +36,14 @@
     <ClCompile Include="11053.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="play.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11055.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SW8016.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
