@@ -13,37 +13,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\baek">
+      <UniqueIdentifier>{8d2c1821-1015-40ed-95da-47f3ef51e6c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\D2">
+      <UniqueIdentifier>{9d78e538-12e4-4676-a5d9-c51992324a68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\D3">
+      <UniqueIdentifier>{26cabac7-c342-4ee6-b115-c3693fad7be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\D4">
+      <UniqueIdentifier>{53043bf3-35a2-463a-82c2-bf162edc0a6e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1463.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2193.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1193.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baek</Filter>
     </ClCompile>
-    <ClCompile Include="10844.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11057.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10813.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일\baek</Filter>
     </ClCompile>
     <ClCompile Include="1934.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baek</Filter>
     </ClCompile>
-    <ClCompile Include="9613.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="11005.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="2193.cpp">
+      <Filter>소스 파일\baek</Filter>
     </ClCompile>
     <ClCompile Include="2745.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="9613.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="10813.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="10844.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="11005.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="11057.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="1712.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="2839.cpp">
+      <Filter>소스 파일\baek</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
