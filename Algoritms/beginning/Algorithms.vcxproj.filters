@@ -69,5 +69,8 @@
     <ClCompile Include="SW7965.cpp">
       <Filter>소스 파일\D4</Filter>
     </ClCompile>
+    <ClCompile Include="2606.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
