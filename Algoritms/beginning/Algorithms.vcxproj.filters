@@ -90,5 +90,14 @@
     <ClCompile Include="1991.cpp">
       <Filter>소스 파일\baek</Filter>
     </ClCompile>
+    <ClCompile Include="11726.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="11727.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="9095.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
