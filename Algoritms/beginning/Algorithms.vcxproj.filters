@@ -69,13 +69,22 @@
     <ClCompile Include="2331.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="9466미완성.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="2667.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1932.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10820.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SW8338실패.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
