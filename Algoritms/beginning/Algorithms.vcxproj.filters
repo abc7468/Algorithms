@@ -81,9 +81,6 @@
     <ClCompile Include="10820.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="SW8338실패.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="7576.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -91,6 +88,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2217.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SW8338.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2875.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10610.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
