@@ -162,5 +162,11 @@
     <ClCompile Include="1963.cpp">
       <Filter>소스 파일\baek</Filter>
     </ClCompile>
+    <ClCompile Include="2580.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="9019미완.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
