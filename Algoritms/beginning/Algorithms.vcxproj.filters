@@ -84,9 +84,6 @@
     <ClCompile Include="2178.cpp">
       <Filter>소스 파일\baek</Filter>
     </ClCompile>
-    <ClCompile Include="SW1247실패.cpp">
-      <Filter>소스 파일\D3</Filter>
-    </ClCompile>
     <ClCompile Include="1991.cpp">
       <Filter>소스 파일\baek</Filter>
     </ClCompile>
@@ -173,6 +170,12 @@
     </ClCompile>
     <ClCompile Include="SAT14502.cpp">
       <Filter>소스 파일\baek</Filter>
+    </ClCompile>
+    <ClCompile Include="SW8673.cpp">
+      <Filter>소스 파일\D3</Filter>
+    </ClCompile>
+    <ClCompile Include="SW1247.cpp">
+      <Filter>소스 파일\D3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
