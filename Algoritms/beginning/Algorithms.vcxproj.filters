@@ -177,5 +177,8 @@
     <ClCompile Include="SW1247.cpp">
       <Filter>소스 파일\D3</Filter>
     </ClCompile>
+    <ClCompile Include="15953.cpp">
+      <Filter>소스 파일\baek</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
