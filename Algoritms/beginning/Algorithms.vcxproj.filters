@@ -150,7 +150,31 @@
     <ClCompile Include="Nqueen.cpp">
       <Filter>소스 파일\acmicpc</Filter>
     </ClCompile>
+    <ClCompile Include="15654안돼 왜...cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15656.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15655.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
     <ClCompile Include="15654.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15657.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15663.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15664.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15665.cpp">
+      <Filter>소스 파일\acmicpc</Filter>
+    </ClCompile>
+    <ClCompile Include="15666.cpp">
       <Filter>소스 파일\acmicpc</Filter>
     </ClCompile>
   </ItemGroup>
