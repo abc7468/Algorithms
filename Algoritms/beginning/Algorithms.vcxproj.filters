@@ -24,9 +24,6 @@
     <ClCompile Include="Sat.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="SAT10026.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1011.cpp">
       <Filter>소스 파일\acmicpc</Filter>
     </ClCompile>
